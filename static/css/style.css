@@ -1,0 +1,30 @@
+:root{
+--logo-bg-color: rgba(255, 77, 104, 0.171);
+--soft-pink :rgb(252, 146, 163);
+--main-text :rgb(252, 215, 221);
+--second-tex:rgb(252, 146, 163);
+}
+
+body{
+    background: linear-gradient(rgba(255, 77, 104), #9198e5);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+/* nav bar */
+nav ul{
+    margin-right: 10%;
+}
+
+nav ul li{
+    font-size: 20px;
+}
+
+#logo{
+    display: absolute;
+    margin-left: 100%;
+}
+
+
+
